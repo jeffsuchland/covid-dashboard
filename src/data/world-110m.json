@@ -1,0 +1,14 @@
+{
+  "type": "Topology",
+  "arcs": [],
+  "transform": {
+    "scale": [0.036003600360036005, 0.016927109510951093],
+    "translate": [-180, -90]
+  },
+  "objects": {
+    "countries": {
+      "type": "GeometryCollection",
+      "geometries": []
+    }
+  }
+}
